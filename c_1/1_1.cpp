@@ -13,7 +13,6 @@ bool if_unique(string s){
 		else{
 			found_map = found_map | mask;
 		}
-			
 	}
 	return true;
 
